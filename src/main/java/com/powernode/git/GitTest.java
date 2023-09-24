@@ -7,5 +7,11 @@ public class GitTest {
         System.out.println("hello git!3");
         System.out.println("hello git!4");
         System.out.println("master change");
+        System.out.println("master change2");
+        System.out.println("master change3");
+        System.out.println("master change4");
+        System.out.println("master change5");
+        System.out.println("master change6");
+        System.out.println("master change7");
     }
 }
