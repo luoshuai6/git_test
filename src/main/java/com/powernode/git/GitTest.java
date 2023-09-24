@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("master change5");
         System.out.println("master change6");
         System.out.println("master change7");
+        System.out.println("change from github");
     }
 }
